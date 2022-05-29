@@ -48,10 +48,10 @@ Below is the endpoint: <a href="http://my-404504676797-bucket.s3-website-us-east
 ![](img/screenshots/access-website-via-web-endpoints.png)
 
 ### e. Website Access using the S3 Bucket object URL
-Link to the Website: <a href="https://my-404504676797-bucket.s3.amazonaws.com/index.html">https://my-404504676797-bucket.s3.amazonaws.com/index.html </a>
+Link to the Website: <a href="https://my-404504676797-bucket.s3.amazonaws.com/index.html" target="_blank">https://my-404504676797-bucket.s3.amazonaws.com/index.html </a>
 
 Output:
 ![](img/screenshots/website-access-by-object-url.png)
 
-## Thank You
+## Thank You  
 # <center>END</center> 
