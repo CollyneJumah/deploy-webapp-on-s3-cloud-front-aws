@@ -36,6 +36,9 @@ After the configuration we obtain the bucket website endpoint:
 Below is the Distribution created and the domain name associated
 ![](img/screenshots/distribution-domain.png)
 
+### b. Cloud Front Distribution status changed to Enabled.
+![](img/screenshots/cloudFrontDistributionState.png)
+
 ### c. Final output when accessing the domain name Using CloudFront distribution domain name:
 
 Link to the domain: <a href="https://d3ubysswx4j3bn.cloudfront.net/" target="_blank" >https://d3ubysswx4j3bn.cloudfront.net/</a>
